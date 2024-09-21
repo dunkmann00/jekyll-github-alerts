@@ -1,6 +1,6 @@
 # jekyll-github-alerts
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-github-alerts.svg)](https://badge.fury.io/rb/jekyll-github-alerts.svg)
+[![Gem Version](https://badge.fury.io/rb/jekyll-github-alerts.svg)](https://badge.fury.io/rb/jekyll-github-alerts)
 
 A Jekyll plugin to render GitHub style markdown alerts.
 
