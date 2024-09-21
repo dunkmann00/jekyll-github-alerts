@@ -33,8 +33,6 @@ A Jekyll plugin to render GitHub style markdown alerts.
 
 ## Supported Alert Styles
 
-Below are the currently supported alerts:
-
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
